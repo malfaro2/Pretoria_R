@@ -33,7 +33,7 @@ Please watch the videos in order, and solve the exercises that are described at 
     <td width="5%">  1:20 </td> 
   </tr>
   <tr>
-    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html">Data Wrangling with dplyr and tidyr </td>
+    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html">Data Wrangling with dplyr and tidyr</a> </td>
     <td width="25%">  13.R_SocialSciences, 14.R_SocialSciences, 15.R_SocialSciences, 16.R_SocialSciences  </td>
     <td width="5%">  1:20 </td>              
   </tr>
