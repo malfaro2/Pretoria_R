@@ -9,7 +9,7 @@ Please watch the videos in order, and solve the exercises that are described at 
 <table style="width:100%">
   <tr>
     <th width="30%">  Section </th>
-    <th width="25%">  Video Names </th>
+    <th width="25%">  Video File Names </th>
     <th width="5%">   Time </th>
   </tr>
   <tr>
