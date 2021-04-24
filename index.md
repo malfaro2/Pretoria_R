@@ -39,17 +39,17 @@ Please watch the videos in order, and solve the exercises that are described at 
   </tr>
   <tr>
     <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/04-ggplot2/index.html">Data Visualisation with ggplot2</a>  </td>
-    <td width="25%">  17.R_SocialSciences, 18.R_SocialSciences, 19.R_SocialSciences, 20.R_SocialSciences, 21.R_SocialSciences  </td>
+    <td width="25%">  17.R_SocialSciences, 18.R_SocialSciences, 19.R_SocialSciences, 20.R_SocialSciences </td>
     <td width="5%">  1:20 </td> 
   </tr>
   <tr>
     <td width="30%"> <a href="https://datacarpentry.org/r-socialsci/05-json/index.html">Processing JSON data</a>  </td>
-    <td width="25%"> 22.R_SocialSciences  </td>
+    <td width="25%"> 21.R_SocialSciences  </td>
     <td width="5%"> 0:20 </td>
   </tr>
   <tr>
     <td width="30%">  Finish  </td>
-    <td width="25%">  23.R_SocialSciences  </td>
+    <td width="25%">  22.R_SocialSciences  </td>
     <td width="5%">  0:05 </td>
   </tr>
 </table>
