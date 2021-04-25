@@ -50,7 +50,7 @@ Please watch the videos in order, and solve the exercises that are described at 
   <tr>
     <td width="30%">  Closing </td>
     <td width="25%">  22.Closing  </td>
-    <td width="5%">  0:01 </td>
+    <td width="5%">  1:00 </td>
   </tr>
 </table>
 
