@@ -14,17 +14,17 @@ Please watch the videos in order, and solve the exercises that are described at 
   </tr>
   <tr>
     <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/setup.html"> Setup</a> </td>
-    <td width="25%">  0.Welcome  </td>
+    <td width="25%">  00.Welcome  </td>
     <td width="5%">  6:46 </td>
   </tr>
   <tr>
     <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/00-intro/index.html">Before we Start</a>  </td>
-    <td width="25%">  1.R_SocialScientists, 2.R_SocialScientists, 3.R_SocialScientists  </td>
+    <td width="25%">  01.R_SocialScientists, 02.R_SocialScientists, 03.R_SocialScientists  </td>
     <td width="5%">  31:08 </td>  
   </tr>
   <tr>
     <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/01-intro-to-r/index.html">Introduction to R</a>  </td>
-    <td width="25%">  4.R_SocialScientists, 5.R_SocialScientists, 6.R_SocialScientists, 7.R_SocialScientists, 8.R_SocialScientists, 9.R_SocialScientists  </td>
+    <td width="25%">  04.R_SocialScientists, 05.R_SocialScientists, 06.R_SocialScientists, 07.R_SocialScientists, 08.R_SocialScientists, 09.R_SocialScientists  </td>
     <td width="5%">  74:23 </td> 
   </tr>
   <tr>
