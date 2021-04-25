@@ -13,7 +13,7 @@ Please watch the videos in order, and solve the exercises that are described at 
     <th width="5%">   Time </th>
   </tr>
   <tr>
-    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/setup.html">Setup</a> </td>
+    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/setup.html">Welcome and Setup</a> </td>
     <td width="25%">  0.R_SocialScientists  </td>
     <td width="5%">  0:15 </td>
   </tr>
@@ -48,7 +48,7 @@ Please watch the videos in order, and solve the exercises that are described at 
     <td width="5%"> 14:41 </td>
   </tr>
   <tr>
-    <td width="30%">  Finish  </td>
+    <td width="30%">  Closing </td>
     <td width="25%">  22.R_SocialScientists  </td>
     <td width="5%">  0:05 </td>
   </tr>
