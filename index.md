@@ -10,12 +10,12 @@ Please watch the videos in order, and solve the exercises that are described at 
   <tr>
     <th width="30%">  Section </th>
     <th width="25%">  Video File Names </th>
-    <th width="5%">   Time </th>
+    <th width="5%">   Time (minutes) </th>
   </tr>
   <tr>
     <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/setup.html"> Setup</a> </td>
     <td width="25%">  0.Welcome  </td>
-    <td width="5%">  0:15 </td>
+    <td width="5%">  6:46 </td>
   </tr>
   <tr>
     <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/00-intro/index.html">Before we Start</a>  </td>
@@ -50,7 +50,7 @@ Please watch the videos in order, and solve the exercises that are described at 
   <tr>
     <td width="30%">  Closing </td>
     <td width="25%">  22.Closing  </td>
-    <td width="5%">  0:05 </td>
+    <td width="5%">  0:01 </td>
   </tr>
 </table>
 
