@@ -18,7 +18,7 @@ Please watch the videos in order, and solve the exercises that are described at 
     <td width="5%">  6:46 </td>
   </tr>
   <tr>
-    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/00-intro/index.html">Before we Start</a>  </td>
+    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/00-intro">Before we Start</a>  </td>
     <td width="25%">  01.R_SocialScientists, 02.R_SocialScientists, 03.R_SocialScientists  </td>
     <td width="5%">  31:08 </td>  
   </tr>
