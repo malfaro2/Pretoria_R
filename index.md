@@ -34,7 +34,7 @@ Please watch the videos in order, and solve the exercises that are described at 
     <td width="5%">  70:22 </td> 
   </tr>
   <tr>
-    <td width="30%">  <a href="datacarpentry.org/r-socialsci/03-dplyr"> Data Wrangling with dplyr and tidyr</a> </td>
+    <td width="30%">  <a href="https://datacarpentry.org/r-socialsci/03-dplyr"> Data Wrangling with dplyr and tidyr</a> </td>
     <td width="25%">  13.R_SocialScientists, 14.R_SocialScientists, 15.R_SocialScientists, 16.R_SocialScientists  </td>
     <td width="5%">  77:33 </td>              
   </tr>
