@@ -44,7 +44,7 @@ Please watch the videos in order, and solve the exercises that are described at 
     <td width="5%">  75:11 </td> 
   </tr>
   <tr>
-    <td width="30%"> <a href="https://datacarpentry.org/r-socialsci/05-json"> Processing JSON data</a>  </td>
+    <td width="30%"> <a href="https://datacarpentry.org/r-socialsci/07-json"> Processing JSON data</a>  </td>
     <td width="25%"> 21.R_SocialScientists  </td>
     <td width="5%"> 14:41 </td>
   </tr>
