@@ -1,5 +1,5 @@
 # R for Social Sciences
-Guide for Videos - CODATA-RDA Research Data Science Schools - Pretoria 2021
+Guide for Videos - CODATA-RDA Research Data Science Schools - Pretoria 2023
 
 This is a guide to navigate the mini-lectures for the class **R for Social Sciences**. We will follow the material from Data Carpentry: [https://datacarpentry.org/r-socialsci/](https://datacarpentry.org/r-socialsci/).
 
@@ -64,4 +64,4 @@ Code Handouts:
 * Data visualization with ggplot2: [https://datacarpentry.org/r-socialsci/data-visualisation-handout.html](https://datacarpentry.org/r-socialsci/data-visualisation-handout.html)
 
 
-
+Download scripts and data for Pretoria 2023 here: [https://drive.google.com/drive/folders/1P4IFG_78gcvY02BqHY8QZd34GbNXsCRr?usp=sharing](https://drive.google.com/drive/folders/1P4IFG_78gcvY02BqHY8QZd34GbNXsCRr?usp=sharing)
