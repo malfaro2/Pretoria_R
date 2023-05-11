@@ -55,3 +55,13 @@ Please watch the videos in order, and solve the exercises that are described at 
   </tr>
 </table>
 
+
+Code Handouts: 
+
+Introduction to R: https://datacarpentry.org/r-socialsci/intro-R-handout.html
+Starting with Data: https://datacarpentry.org/r-socialsci/starting-with-data-handout.html
+Data Wrangling with dplyr and tidyr: https://datacarpentry.org/r-socialsci/data-wrangling-handout.html
+Data visualization with ggplot2: https://datacarpentry.org/r-socialsci/data-visualisation-handout.html
+
+
+
